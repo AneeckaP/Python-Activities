@@ -1,0 +1,5 @@
+name = input("Enter your name: ")
+print("Congratulations", name)
+print("Bravo! You did a wonderful job")
+like= input("What do you like to do?: ")
+print("You are very good at", like,"!")
