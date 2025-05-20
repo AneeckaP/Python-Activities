@@ -1,5 +1,5 @@
 student_data={
-    'id1:'
+    'id1':
     {'name':['Aneecka'],
     'class': ['V'],
     'subject_integration':['english, math, science']
@@ -17,7 +17,7 @@ student_data={
     },
 'id4':
     {'name': ['Surya'],
-    'class':['V']
+    'class':['V'],
     'subject integration':['english, math, science']
     },
 }
