@@ -18,3 +18,12 @@ while not done:
         (200,150),
         40
     )
+
+    pygame.draw.circle(
+        screen,
+        (32,111,171),
+        (300,200),50,
+        3
+    )
+
+    pygame.display.flip()
